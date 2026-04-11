@@ -1,2 +1,88 @@
-# Excel_Practice_Dashboard
-This repository contains Excel dashboard practice projects focused on building interactive, data-driven reports using advanced Excel features like PivotTables, Power Query, and dynamic formulas.
+# Excel Practice Dashboard Series 📊
+
+Hi! I'm building this repository as part of my journey to become a Data Analyst.
+
+Right now, I’m focusing on **Excel**, because for small to medium datasets, it is powerful enough to perform analysis and build meaningful dashboards.
+
+---
+
+## 🚀 About This Project
+
+This is a series of **10+ Excel dashboards** based on different business scenarios like sales, HR, and small businesses.
+
+Each dashboard is built using datasets with **less than 10,000 rows**, which is common in many real-world beginner-level projects.
+
+The goal:
+> Learn data analysis and dashboard building using Excel in a practical way.
+
+---
+
+## 📁 Dashboards
+
+| No. | Dashboard | Description |
+|-----|----------|------------|
+| 01 | Sales Dashboard | Revenue, profit, and trends |
+| 02 | HR Dashboard | Employee insights and performance |
+| 03 | Barber Shop Dashboard | Customer behavior and revenue |
+| ... | More coming soon | Target: 10+ dashboards |
+
+---
+
+## 🛠️ Skills I'm Using
+
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Data Cleaning  
+- Dashboard Design  
+- Data Visualization  
+
+---
+
+## 📥 Try It Yourself
+
+This repository is also for **beginners who want to learn data visualization in Excel**.
+
+You can:
+- Download the Excel files  
+- Explore how dashboards are structured  
+- Practice and modify them  
+- Try to rebuild from scratch  
+
+---
+
+## 💡 My Observation
+
+While learning, I noticed many beginner dashboards:
+- Look like basic charts  
+- Have no clear structure  
+- Don’t show insights  
+
+So I’m focusing on building dashboards that:
+- Have a clean layout  
+- Tell a clear story  
+- Feel closer to real business dashboards  
+
+---
+
+## 🎯 My Goal
+
+To move from:
+> “Just charts in Excel” ❌  
+
+To:
+> “Structured dashboards with insights” ✅  
+
+And build a strong foundation in data analytics using Excel.
+
+---
+
+## 🔗 Connect With Me
+
+LinkedIn: (https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/)
+---
+
+## 🙌 Feedback
+
+I’m still learning, so feedback and suggestions are always welcome.
+
+If you find this helpful, feel free to ⭐ the repository!
