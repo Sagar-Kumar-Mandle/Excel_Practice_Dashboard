@@ -78,7 +78,8 @@ And build a strong foundation in data analytics using Excel.
 
 ## 🔗 Connect With Me
 
-LinkedIn: (https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/)
+- [LinkedIn – Sagar Kumar Mandle](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/)
+
 ---
 
 ## 🙌 Feedback
