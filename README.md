@@ -24,6 +24,7 @@ The goal:
 | 01 | Sales Dashboard | Revenue, profit, and trends |
 | 02 | HR Dashboard | Employee insights and performance |
 | 03 | Barber Shop Dashboard | Customer behavior and revenue |
+| 04 | Income & Expenses Data Dashboard | Personal finance tracking, expense analysis, and savings insights |
 | ... | More coming soon | Target: 10+ dashboards |
 
 ---
