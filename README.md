@@ -21,11 +21,11 @@ The goal:
 
 | No. | Dashboard | Description |
 |-----|----------|------------|
-| 01 | Sales Dashboard | Revenue, profit, and trends |
-| 02 | HR Dashboard | Employee insights and performance |
-| 03 | Barber Shop Dashboard | Customer behavior and revenue |
-| 04 | Income & Expenses Data Dashboard | Personal finance tracking, expense analysis, and savings insights |
-| 05 | Adidas 2020-2021 Sales Dashboard | Sales performance, profit, and regional trends |
+| 01 | Sales Dashboard | Revenue, Profit, and Trends |
+| 02 | Coffee Sales Data | Revenue, Profit, and Product Sales Insights |
+| 03 | Barber Shop Dashboard | Customer Behavior and Revenue |
+| 04 | Income & Expenses Data Dashboard | Personal Finance Tracking, Expense Analysis, and Savings Insights |
+| 05 | Adidas 2020-2021 Sales Dashboard | Sales Performance, Profit, and Regional Trends |
 | ... | More coming soon | Target: 10+ dashboards |
 
 ---
