@@ -26,7 +26,8 @@ The goal:
 | 03 | Barber Shop Dashboard | Customer Behavior and Revenue |
 | 04 | Income & Expenses Data Dashboard | Personal Finance Tracking, Expense Analysis, and Savings Insights |
 | 05 | Adidas 2020-2021 Sales Dashboard | Sales Performance, Profit, and Regional Trends |
-| ... | More coming soon | Target: 10+ dashboards |
+| 06 | HR Analytics Management | Employee Data, Attrition & Workforce Insights |
+| ... | More coming soon | Target: 15+ dashboards |
 
 ---
 
