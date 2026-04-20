@@ -28,7 +28,7 @@ The goal:
 | 05 | Adidas 2020–2021 Sales Dashboard | Sales Performance, Profit, and Regional Trends |
 | 06 | HR Analytics Management | Employee Data, Attrition & Workforce Insights |
 | 07 | EdTech Marketing & Sales Dashboard | Campaign Performance, Student Enrollment, Revenue Trends, and Channel Insights |
-| 08 | E-Commerce Sales Analytics | |
+| 08 | E-Commerce Sales Analytics | Sales Performance, Profit Analysis, Customer Segmentation, and Regional Insights |
 | 09 | Website Traffic & Campaign Performance Analytics | |
 | 10 | Hotel Booking Performance | |
 | 11 | Sales & Profit Dashboard | |
